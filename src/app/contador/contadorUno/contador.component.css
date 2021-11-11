@@ -1,0 +1,23 @@
+button{
+    background-color:coral;
+}
+
+button:hover{
+    background-color: chocolate;
+}
+.contenedor{
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    border-radius: 30px;
+    border: dotted 10px white;
+}
+
+.contenedor:hover{
+    background-color: #a69d97;
+    color: #000000;
+    border: dotted 10px black;
+}
